@@ -196,3 +196,15 @@ excited about making their creaton even better.
   creator
   responder(s)
   facilitator
+
+
+#59 get off the tightrope
+rebase often 
+cherry-pick improvemnts(not related to task) and deliver them early
+
+tdd mindset
+  red
+  green
+  yellow(improve)
+  
+
