@@ -184,3 +184,11 @@ end
 #49 Hi performance - GPU
 ArrayFire gem
 sciruby
+
+#51 Code review
+objective: 
+inspire the creator 
+to go back to their work
+with fresh eyes, 
+excited about making their creaton even better.
+
