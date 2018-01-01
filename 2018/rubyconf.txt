@@ -192,3 +192,7 @@ to go back to their work
 with fresh eyes, 
 excited about making their creaton even better.
 
+3 roles:
+  creator
+  responder(s)
+  facilitator
