@@ -129,5 +129,39 @@ google best team shows:
 what make teams work: psychological safety
 
 
+#42 rack
+require 'rack'
+
+class App
+  def call(env)
+    [
+      '200',
+      {'Content-Type' => 'text/html'},
+      ['<p>hi</p>']
+    ]
+  end
+end
+
+app = App.new
+
+require 'rack/handler/unicorn'
+Rack::Handler::Unicorn.run(app, :Port => 3000)
+
+require 'rack/handler/puma'
+Rack::Handler::Puma.run(app)
+
+Rack::Handler::WEBrick.run(app)
+
+######################################
+
+require 'sinatra'
+configure { set :server, :puma }
+
+get '/' do
+  "Hello World!"
+end
+
+
 #43 shoes 
 4.0
+
