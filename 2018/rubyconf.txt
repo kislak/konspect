@@ -1,0 +1,133 @@
+#14 Using scientific method for debugging
+https://www.youtube.com/watch?v=spwAyEn2VXs&list=PLE7tQUdRKcyayGHjjxZOmVEGsxX-rczZt&index=14
+
+- gather knowledge 
+- ask questions
+- make hypothesis
+- design experiment
+- run exp
+- take good notes
+- make conclusion
+- share knowledge | or repeat
+
+how to unstuck
+
+narrow focus
+write down what you know
+keep moving
+dry
+
+
+--------------
+#15 
+flaky tests
+'non-deterministic' behaviour
+ignoring failures - bugs in prod which are hard to fix
+
+10 months 2 person - fixed tests!!!
+
+------------
+#16
+Leadership starts with listening
+powerful question
+  tell me about a peak moment in your life
+
+share a challenge you would like to take
+  what do you want?
+  what's important about this?
+  what's one step you can take?
+
+
+coaching
+*listening
+  focuse in
+  focuse out
+  body language
+    say it another way
+    it sounds like you are relieved (acknowledge подтверждай получение feelings)
+*asking questions
+*get them to action (being) 
+  (start with asking permission: can I ask you some coaching questions)
+*follow up
+
+Person A Person B - whose birthday is closest to today
+
+Don't dominate: 
+- 3 before me
+
+__________________
+#18 Finding Responsibility
+let it not distract you
+ethic - low
+moral
+
+Understand the value of the feature (project)
+- Why?
+- I can't tell you that
+- I'm not comfortable with this.
+
+
+§35 Sandi
+the psychology of persuasion - cialdini
+weapons of influence 
+  reciprocity (взаимность)
+  consistency
+  social proof (do what others do)
+  authority (low)
+  liking
+  scarcity
+
+
+kornegi
+  make people like you
+    become interested in other people
+    smile
+    remember person's name
+    be a good listener
+    talk in terms of other people interest
+    make the other person feel important (do it in sincerely)
+  handling people
+    do not criticize, condemn(kon'dem, осуждать) or complain
+    give honest and sincere appreciation
+    arouse in the other people an eager want (пробудить желание)
+  win people
+    the only way to get the best of an argument is to avoid it
+    show respect for the other person's opinions (never say "you are wrong")
+    if you are wrong admit it quickly and emphatically (выразительно, подчёркнуто)
+    begin in a friendly way
+    get the other person say "yes, yes" immediately
+    let the other person do the great deal of the talking
+    let the other person feel that the idea is theirs
+    try honesty to see things from the other person's point of view
+    be sympathetic with the other person's ideas and desires
+    appeal to the nobler motives
+    dramatize your ideas
+    throw down a challenge
+  be a leader
+    begin with praise and honest appreciation
+    call attention to people's mistakes indirectly
+    talk about your own mistakes before criticizing other person
+    ask questions instead of giving direct orders
+    let the other person save face
+    praise the slightest improvement
+    give the other person a fine reputation to live up to (быть достойным)
+    use encouragement
+    make the other person happy about doing things you suggest
+    
+Act as if others are interesting (интересны) and you will eventually find them so
+
+DRIVE - daniel h. pink
+  autonomy
+  mastery
+  purpose
+
+
+google best team shows:
+  equality in distribution of conversational turn-taking
+  average social sensitivity
+
+what make teams work: psychological safety
+
+
+#43 shoes 
+4.0
