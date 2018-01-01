@@ -165,3 +165,18 @@ end
 #43 shoes 
 4.0
 
+#48 debugger
+
+Breakpoint = Struct.new(:name, :file, :line)
+
+require_relative 'my_debugger'
+MyDebugger.add_breakpoint('point1', __FILE__, 171)
+
+TracePoint.trace :line do |tp|
+  bp = @brake_points.find{ |b| b.file == tp.path && b.line == tp.lineno }
+  if bp
+    require 'irb'
+    tp.binding.irb
+  end
+end
+
